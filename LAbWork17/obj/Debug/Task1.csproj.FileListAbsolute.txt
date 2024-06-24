@@ -1,0 +1,10 @@
+V:\ispp21\LAbWork17\LAbWork17\bin\Debug\LAbWork17.exe.config
+V:\ispp21\LAbWork17\LAbWork17\bin\Debug\LAbWork17.exe
+V:\ispp21\LAbWork17\LAbWork17\bin\Debug\LAbWork17.pdb
+V:\ispp21\LAbWork17\LAbWork17\obj\Debug\Task1.csproj.AssemblyReference.cache
+V:\ispp21\LAbWork17\LAbWork17\obj\Debug\LAbWork17.Properties.Resources.resources
+V:\ispp21\LAbWork17\LAbWork17\obj\Debug\Task1.csproj.GenerateResource.cache
+V:\ispp21\LAbWork17\LAbWork17\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+V:\ispp21\LAbWork17\LAbWork17\obj\Debug\LAbWork17.exe
+V:\ispp21\LAbWork17\LAbWork17\obj\Debug\LAbWork17.pdb
+V:\ispp21\LAbWork17\LAbWork17\obj\Debug\LAbWork17.FilesForm.resources
